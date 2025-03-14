@@ -41,7 +41,7 @@
 
 ##### ethminer -epool eth-us1.ethermine.org:4444 -ewal YOUR_ETH_WALLET_ADDRESS -eworker WORKER_NAME -dpool stratum+tcp://dcr-us1.fpmpool.com:3333 -dwal YOUR_DECRED_WALLET_ADDRESS
 
-#####Troubleshooting Common Issues
+##### Troubleshooting Common Issues
 
 #### - *Low Hashrate*:
   ##### - Make sure your GPU drivers are up-to-date. Outdated drivers can really hurt mining performance.
